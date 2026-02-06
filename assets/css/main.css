@@ -1799,7 +1799,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			header.major {
-				margin: 0 0 2em 0;
+				margin: 0 0 1em 0;
 			}
 
 		}
@@ -3637,6 +3637,10 @@ input, select, textarea {
 				color: inherit;
 			}
 
+		#banner .inner {
+			padding-bottom: 8em;
+		}
+
 		#banner .more {
 			-moz-transition: -moz-transform 0.75s ease, opacity 0.75s ease;
 			-webkit-transition: -webkit-transform 0.75s ease, opacity 0.75s ease;
@@ -3891,7 +3895,7 @@ input, select, textarea {
 	}
 
 		#footer .icons {
-			font-size: 1.25em;
+			font-size: 2.5em;
 		}
 
 			#footer .icons a {
